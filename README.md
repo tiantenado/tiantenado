@@ -36,7 +36,7 @@ Hoje a empresa tem duas frentes:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiantenado&layout=compact&langs_count=16&theme=prussian"/>
 </div>
   
- **YOUTUBE**: A outra frente da empresa é o nosso canal  [youtube](https://www.youtube.com/c/TIAntenado) que consiste em ajudar os devs iniciantes em tirar dúvias, gravar vídeos de apoio com minu cursos, vídeos para tirar dúvidas, compartilhamento de conteúdos em nossos grupos do whatsapp e telegram de forma 100% gratuita.
+ **Canal Youtube:** [TI Antenado](https://www.youtube.com/c/TIAntenado) que consiste em ajudar os devs iniciantes em tirar dúvias, gravar vídeos de apoio com minu cursos, vídeos para tirar dúvidas, compartilhamento de conteúdos em nossos grupos do whatsapp e telegram de forma 100% gratuita.
 
  ## Nosas redes sociais
 <div> 
